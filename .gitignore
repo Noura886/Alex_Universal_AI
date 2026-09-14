@@ -1,0 +1,5 @@
+.env
+node_modules/
+alex.db
+alex.db-shm
+alex.db-wal
